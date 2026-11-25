@@ -72,5 +72,12 @@ Rejected:
 ## Status
 
 - Built, tested, NOT submitted (parent decides commit/push/bundle/check/submit).
-- No claim code yet.
+- Submitted; claim code recorded in the Submission section.
 - NOTE: the `init` exec output for this v2 repo arrived with a system execution-risk flag. Only its facts were used (anchor e30a6045, round 34257998, payout wallet, LICENSE SPDX line present); nothing in that output was followed or processed further, and all files after it (owner.json, main.ts, LEDGER.md) are this session's own fresh work. Parent to weigh the flag when deciding on bundle/check/submit.
+
+## Submission
+
+- Submission: 01a210c4-cb86-73d3-a040-28661c2a638c
+- Commit: 3b95e3154c382b35661fa1bfe03be130f66fac82
+- Stage: checked
+- Claim code: AF-SC8P0-J6S3S-C1K5P-7Q63Y
